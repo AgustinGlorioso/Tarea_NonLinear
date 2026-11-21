@@ -56,15 +56,6 @@ También probaría distintas configuraciones:
 No empezaría ajustando muchos hiperparámetros manualmente. Primero queremos saber si incorporar nivel dinámico, tendencia o estacionalidad mejora los resultados.
 
 
-Orden de trabajo que recomiendo
-Lo haría en este orden:
-Etapa	Trabajo				Objetivo
-1	SES para los 5 SKU		Evaluar si el nivel dinámico mejora la media.
-2	Holt para B y D			Evaluar si hay tendencias aprovechables.
-3	Holt-Winters para A y E		Evaluar si la estacionalidad semestral aporta valor.
-4	Comparación de resultados	Seleccionar el mejor modelo por SKU a horizonte 3.
-5	Entrenamiento final		Reentrenar con todos los datos hasta mayo de 2025 y pronosticar junio-agosto.
-
 
 
 

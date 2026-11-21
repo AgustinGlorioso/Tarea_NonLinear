@@ -27,6 +27,15 @@ def media(train, h):
 def media_movil(train, h, k):
     return [train.iloc[-k:].mean()] * h
 
+def media_movil_3(train, h):
+    return media_movil(train, h, 3)
+
+def media_movil_6(train, h):
+    return media_movil(train, h, 6)
+
+def media_movil_12(train, h):
+    return media_movil(train, h, 12)
+
 
 def ses(train, h):
     modelo = SimpleExpSmoothing(train.values, initialization_method="estimated").fit()
