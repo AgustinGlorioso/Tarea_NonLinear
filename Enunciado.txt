@@ -1,0 +1,29 @@
+Estimados,
+
+El motivo de este correo es convocarlos a una próxima instancia en el proceso de selección de las pasantías. Hemos decidido realizar esta segunda entrevista, con un desafío incorporado, para poder tomar una mejor decisión. 
+
+Más abajo encontrarán un enunciado respecto a pronósticos, que lo pueden tomar todos (los datos están adjuntos).
+
+Como les decía, no buscamos una resolución completa ni perfecta, todo lo contrario, sino solamente ver cómo lo abordarían, ver algún resultado parcial, discutir criterios.
+
+Cualquier duda, a disposición! 
+
+ENUNCIADO 1 (datos adjuntos)
+Objetivo
+
+Con la metodología de su elección, pronosticar los siguientes tres meses de ventas para cada uno de los SKUs dados de ejemplo. Reportar para cada uno el pronóstico de los siguientes tres meses y la metodología utilizada.
+
+Notas para la conversación
+
+Sería interesante establecer el criterio en cuánto a:
+
+Agrupamiento de productos y su efecto en el pronóstico.
+Nociones de entrenamiento y tunning. ¿Cómo compruebo la calidad del pronóstico?
+Seguimiento del pronóstico:
+Cómo implementar el pronóstico internamente. ¿En qué áreas impacta?
+Cómo hacer un seguimiento. Alarmas y tracking.
+Cómo afecta a las políticas de inventario y re-abastecimiento.
+Cómo afecta a las nociones de inventario de seguridad el resultado del pronóstico.
+Cómo afecta a las políticas de compra los resultados.
+Temas de infraestructura. Cómo montar una plataforma web y en la nube, u otros esquemas. Diseño de un pipeline.
+Cómo implementar una solución de pronóstico en el entorno de un cliente. Nociones básicas.
